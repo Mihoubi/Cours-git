@@ -1,3 +1,3 @@
-echo "test python"
-echo "test Yassine"
-echo "test branche Yassine"
+print("test python")
+print("test Yassine")
+print("test branche Yassine")
